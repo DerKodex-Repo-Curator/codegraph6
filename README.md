@@ -1,6 +1,7 @@
 # CodeGraph – Codebase Intelligence
 
 A production-ready **multi-agent system** that answers questions about any GitHub codebase. Built with the **Model Context Protocol (MCP)**, a **Neo4j** knowledge graph, **Claude**, and a React frontend.
+
 <img width="1470" height="799" alt="codegraph" src="https://github.com/user-attachments/assets/06966d40-9d27-43d3-ac0a-900a4f896159" />
 <img width="1470" height="799" alt="codegraph2" src="https://github.com/user-attachments/assets/5fff867d-bbca-4c47-b35d-475a612ecb31" />
 <img width="1467" height="792" alt="codegrpah3" src="https://github.com/user-attachments/assets/a0e1583a-c46e-41d6-8159-9f2311030a7a" />
